@@ -1,0 +1,6 @@
+/Users/aleksej/Desktop/laba2/Laba2/Laba2/obj/Debug/Laba2.csproj.AssemblyReference.cache
+/Users/aleksej/Desktop/laba2/Laba2/Laba2/obj/Debug/Laba2.csproj.CoreCompileInputs.cache
+/Users/aleksej/Desktop/laba2/Laba2/Laba2/bin/Debug/Laba2.exe
+/Users/aleksej/Desktop/laba2/Laba2/Laba2/bin/Debug/Laba2.pdb
+/Users/aleksej/Desktop/laba2/Laba2/Laba2/obj/Debug/Laba2.exe
+/Users/aleksej/Desktop/laba2/Laba2/Laba2/obj/Debug/Laba2.pdb
